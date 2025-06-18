@@ -14,8 +14,8 @@ This project showcases branding for a photographer named **Lohitha Damisetti** u
 
 ## 💡 Technologies Used
 
-- **HTML5**
-- **CSS3**
+- **HTML**
+- **CSS**
 - **Google Fonts**
 - **Font Awesome**
 
