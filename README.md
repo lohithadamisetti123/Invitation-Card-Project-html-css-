@@ -27,6 +27,6 @@ This project showcases branding for a photographer named **Lohitha Damisetti** u
 
 ## 🔗 Live Preview
 
-[Click here to view the live project](#) *(replace with GitHub Pages or other live link)*
+[Click here to view the live project](https://lohithadamisetti123.github.io/Invitation-Card-Project-html-css-/)
 
 
